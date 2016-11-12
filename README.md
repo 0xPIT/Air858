@@ -3,7 +3,12 @@
 Simplified and optimized replacement controller for 
 the low-cost W.E.P. 858D+ Hot Air Soldering Station.
 
-## PCB rev. 1
+
+## Warning
+**This project operates with possibly lethal mains voltage. If you are unsure what to do, don't do it and get help from an experienced tinkerer with professional training.**
+![](https://commons.wikimedia.org/wiki/File%3AHigh_voltage_warning.svg | width=125)
+
+## Image of PCB rev. 1
 ![BoardAllRev1]
 
 

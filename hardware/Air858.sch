@@ -18598,8 +18598,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="D6" library="diode" deviceset="DIODE-" device="DO-214AC"/>
 <part name="IC3" library="v-reg" deviceset="LD117A?*" device="S" technology="12TR" value="LD117"/>
 <part name="C2" library="rcl" deviceset="C-EU" device="C0603" value="100~n"/>
-<part name="C3" library="rcl" deviceset="CPOL-EU" device="153CLV-0810" value="220µ"/>
-<part name="C4" library="rcl" deviceset="CPOL-EU" device="B/3528-21W" value="220µ"/>
+<part name="C3" library="rcl" deviceset="CPOL-EU" device="SMCE" value="220µ"/>
+<part name="C4" library="rcl" deviceset="CPOL-EU" device="SMCE" value="220µ"/>
 <part name="T1" library="triac" deviceset="TIC206" device="" technology="D" value="BTA16"/>
 <part name="OK1" library="optocoupler" deviceset="MOC30*" device="" technology="41M"/>
 <part name="TX1" library="con-molex" deviceset="22-23-2041" device="" value="J4"/>

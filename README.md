@@ -6,6 +6,7 @@ the low-cost W.E.P. 858D+ Hot Air Soldering Station.
 
 ## Warning
 |<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/High_voltage_warning.svg" width="120"> | **This project operates with possibly lethal mains voltage. If you are unsure what to do, don't do it and get help from an experienced tinkerer with professional training.**|
+|  |  |
 
 
 

@@ -1,9 +1,9 @@
-# 858plus
+# Air858
 
 Simplified and optimized replacement controller for 
 the low-cost W.E.P. 858D+ Hot Air Soldering Station.
 
-# PCB rev. 1
+## PCB rev. 1
 ![BoardAllRev1]
 
 

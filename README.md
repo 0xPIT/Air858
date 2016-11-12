@@ -1,7 +1,10 @@
 # 858plus
 
 Simplified and optimized replacement controller for 
-the low-cost W.E.P. 858D+ Hot Air Soldering Station
+the low-cost W.E.P. 858D+ Hot Air Soldering Station.
+
+# PCB rev. 1
+![BoardAllRev1]
 
 
 Licensing
@@ -30,3 +33,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ```
+
+[BoardAllRev1]:https://raw.githubusercontent.com/0xPIT/Air858/master/hardware/manufacturing/revisions/1/Air858.all.rev1.png
